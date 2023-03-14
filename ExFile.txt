@@ -1,2 +1,5 @@
 #git merge
 This command takes independent lines of development created by git branch and merges them into a single branch
+
+#git rebase
+Rebasing is the process of moving or combining a sequence of commits to a new base commit.
