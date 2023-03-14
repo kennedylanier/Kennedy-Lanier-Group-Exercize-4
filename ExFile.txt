@@ -6,3 +6,6 @@ Rebasing is the process of moving or combining a sequence of commits to a new ba
 
 #git checkout
 This command lets you navigate between branches.
+
+#git push
+The git push command is used to upload local repository content to a remote repository.
