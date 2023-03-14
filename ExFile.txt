@@ -1,0 +1,2 @@
+#git merge
+This command takes independent lines of development created by git branch and merges them into a single branch
